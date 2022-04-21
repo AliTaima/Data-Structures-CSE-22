@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639315904 source:b:\level 3\first term\data structure\labs\lab7\lab7_2_minimum distinct elements\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1639318155 source:b:\data structures\lab7\lab7_2_minimum distinct elements\main.c
+	<stdio.h>
+	<stdlib.h>
+

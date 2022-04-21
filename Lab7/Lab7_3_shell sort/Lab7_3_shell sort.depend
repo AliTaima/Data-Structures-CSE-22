@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650544355 source:b:\data structures\lab7\lab7_3_shell sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

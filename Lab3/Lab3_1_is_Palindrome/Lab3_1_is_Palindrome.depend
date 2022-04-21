@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636309139 source:b:\level 3\first term\data structure\labs\lab3\lab3_1_is_palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634989593 source:b:\files of programes\codeblocks\c\lab1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634992169 source:b:\level 3\first term\data structure\labs\lab1\lab1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639921681 source:b:\level 3\first term\data structure\labs\lab8\lab8_2_finding median\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1639921681 source:b:\data structures\lab8\lab8_2_finding median\main.c
+	<stdio.h>
+	<stdlib.h>
+

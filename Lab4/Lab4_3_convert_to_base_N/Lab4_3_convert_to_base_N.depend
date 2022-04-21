@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636926679 source:b:\level 3\first term\data structure\labs\lab4\lab4_3_convert_to_base_n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636900603 source:b:\level 3\first term\data structure\labs\lab4\lab4_3_convert_to_base_n\code1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

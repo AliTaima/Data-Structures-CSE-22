@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641199355 source:b:\level 3\first term\data structure\labs\lab10\lab10_1_bipartite graph\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1641482014 source:b:\data structures\lab10\lab10_1_bipartite graph\main.c
+	<stdio.h>
+	<stdlib.h>
+

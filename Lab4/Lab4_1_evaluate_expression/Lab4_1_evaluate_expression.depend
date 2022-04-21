@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636917182 source:b:\level 3\first term\data structure\labs\lab4\lab4_1_evaluate_expression\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636918139 source:b:\data structures\lab 4\lab4_1_evaluate_expression\main.c
+	<stdio.h>
+	<stdlib.h>
+
