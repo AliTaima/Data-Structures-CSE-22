@@ -25,10 +25,10 @@
   * DAG
   * Topological sort
 * Hashing
-* Searching
+* Searching Algorithms
   * Binary search
   * and all previous searching alogrithms
-* Sorting
+* Sorting Algorithms
   * Selection sort
   * Bubble sort
   * Insertion sort
