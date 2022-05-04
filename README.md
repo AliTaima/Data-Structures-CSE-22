@@ -3,7 +3,7 @@
 - This course represent Data Structures |
   - so there are some topics we didn't take it deeply
 - I add all Labs and sheets that I solve during this course
-# Topics that I cover
+# Covered topics
 * arrays
   * 1D arrays
   * 2D arrays
