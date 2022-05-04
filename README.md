@@ -2,6 +2,7 @@
 - I take this course in 3rd year 2nd term 
 - This course represent Data Structures |
   - so there are some topics we didn't take it deeply
+- I add all Labs and sheets that I solve during this course
 # Topics that I cover
 * arrays
   * 1D arrays
